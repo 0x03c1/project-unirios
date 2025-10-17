@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.csv
+*.h5
+*.hdf5
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+*.egg-info/
+*.eggs/
+*.venv/
+*.env/
+*.ipynb_checkpoints/
+*.pkl
+.vscode/
