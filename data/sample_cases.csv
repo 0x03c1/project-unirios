@@ -1,0 +1,49 @@
+municipio,data,casos,chuva,temp,umid,texto
+Recife,2025-06-01,10,15,27,70,Relato de Recife na semana 0: 10 casos de dengue. Choveu 15 mm. Temperatura média 27 C.
+Recife,2025-06-08,12,25,28,71,Relato de Recife na semana 1: 12 casos de dengue. Choveu 25 mm. Temperatura média 28 C.
+Recife,2025-06-15,15,35,29,72,Relato de Recife na semana 2: 15 casos de dengue. Choveu 35 mm. Temperatura média 29 C.
+Recife,2025-06-22,17,45,27,73,Relato de Recife na semana 3: 17 casos de dengue. Choveu 45 mm. Temperatura média 27 C.
+Recife,2025-06-29,18,15,28,74,Relato de Recife na semana 4: 18 casos de dengue. Choveu 15 mm. Temperatura média 28 C.
+Recife,2025-07-06,10,25,29,70,Relato de Recife na semana 5: 10 casos de dengue. Choveu 25 mm. Temperatura média 29 C.
+Recife,2025-07-13,13,35,27,71,Relato de Recife na semana 6: 13 casos de dengue. Choveu 35 mm. Temperatura média 27 C.
+Recife,2025-07-20,15,45,28,72,Relato de Recife na semana 7: 15 casos de dengue. Choveu 45 mm. Temperatura média 28 C.
+Recife,2025-07-27,16,15,29,73,Relato de Recife na semana 8: 16 casos de dengue. Choveu 15 mm. Temperatura média 29 C.
+Recife,2025-08-03,18,25,27,74,Relato de Recife na semana 9: 18 casos de dengue. Choveu 25 mm. Temperatura média 27 C.
+Recife,2025-08-10,11,35,28,70,Relato de Recife na semana 10: 11 casos de dengue. Choveu 35 mm. Temperatura média 28 C.
+Recife,2025-08-17,13,45,29,71,Relato de Recife na semana 11: 13 casos de dengue. Choveu 45 mm. Temperatura média 29 C.
+Recife,2025-08-24,14,15,27,72,Relato de Recife na semana 12: 14 casos de dengue. Choveu 15 mm. Temperatura média 27 C.
+Recife,2025-08-31,16,25,28,73,Relato de Recife na semana 13: 16 casos de dengue. Choveu 25 mm. Temperatura média 28 C.
+Recife,2025-09-07,19,35,29,74,Relato de Recife na semana 14: 19 casos de dengue. Choveu 35 mm. Temperatura média 29 C.
+Recife,2025-09-14,11,45,27,70,Relato de Recife na semana 15: 11 casos de dengue. Choveu 45 mm. Temperatura média 27 C.
+Olinda,2025-06-01,6,15,27,70,Relato de Olinda na semana 0: 6 casos de dengue. Choveu 15 mm. Temperatura média 27 C.
+Olinda,2025-06-08,8,25,28,71,Relato de Olinda na semana 1: 8 casos de dengue. Choveu 25 mm. Temperatura média 28 C.
+Olinda,2025-06-15,11,35,29,72,Relato de Olinda na semana 2: 11 casos de dengue. Choveu 35 mm. Temperatura média 29 C.
+Olinda,2025-06-22,13,45,27,73,Relato de Olinda na semana 3: 13 casos de dengue. Choveu 45 mm. Temperatura média 27 C.
+Olinda,2025-06-29,14,15,28,74,Relato de Olinda na semana 4: 14 casos de dengue. Choveu 15 mm. Temperatura média 28 C.
+Olinda,2025-07-06,6,25,29,70,Relato de Olinda na semana 5: 6 casos de dengue. Choveu 25 mm. Temperatura média 29 C.
+Olinda,2025-07-13,9,35,27,71,Relato de Olinda na semana 6: 9 casos de dengue. Choveu 35 mm. Temperatura média 27 C.
+Olinda,2025-07-20,11,45,28,72,Relato de Olinda na semana 7: 11 casos de dengue. Choveu 45 mm. Temperatura média 28 C.
+Olinda,2025-07-27,12,15,29,73,Relato de Olinda na semana 8: 12 casos de dengue. Choveu 15 mm. Temperatura média 29 C.
+Olinda,2025-08-03,14,25,27,74,Relato de Olinda na semana 9: 14 casos de dengue. Choveu 25 mm. Temperatura média 27 C.
+Olinda,2025-08-10,7,35,28,70,Relato de Olinda na semana 10: 7 casos de dengue. Choveu 35 mm. Temperatura média 28 C.
+Olinda,2025-08-17,9,45,29,71,Relato de Olinda na semana 11: 9 casos de dengue. Choveu 45 mm. Temperatura média 29 C.
+Olinda,2025-08-24,10,15,27,72,Relato de Olinda na semana 12: 10 casos de dengue. Choveu 15 mm. Temperatura média 27 C.
+Olinda,2025-08-31,12,25,28,73,Relato de Olinda na semana 13: 12 casos de dengue. Choveu 25 mm. Temperatura média 28 C.
+Olinda,2025-09-07,15,35,29,74,Relato de Olinda na semana 14: 15 casos de dengue. Choveu 35 mm. Temperatura média 29 C.
+Olinda,2025-09-14,7,45,27,70,Relato de Olinda na semana 15: 7 casos de dengue. Choveu 45 mm. Temperatura média 27 C.
+Jaboatao dos Guararapes,2025-06-01,6,15,27,70,Relato de Jaboatao dos Guararapes na semana 0: 6 casos de dengue. Choveu 15 mm. Temperatura média 27 C.
+Jaboatao dos Guararapes,2025-06-08,8,25,28,71,Relato de Jaboatao dos Guararapes na semana 1: 8 casos de dengue. Choveu 25 mm. Temperatura média 28 C.
+Jaboatao dos Guararapes,2025-06-15,11,35,29,72,Relato de Jaboatao dos Guararapes na semana 2: 11 casos de dengue. Choveu 35 mm. Temperatura média 29 C.
+Jaboatao dos Guararapes,2025-06-22,13,45,27,73,Relato de Jaboatao dos Guararapes na semana 3: 13 casos de dengue. Choveu 45 mm. Temperatura média 27 C.
+Jaboatao dos Guararapes,2025-06-29,14,15,28,74,Relato de Jaboatao dos Guararapes na semana 4: 14 casos de dengue. Choveu 15 mm. Temperatura média 28 C.
+Jaboatao dos Guararapes,2025-07-06,6,25,29,70,Relato de Jaboatao dos Guararapes na semana 5: 6 casos de dengue. Choveu 25 mm. Temperatura média 29 C.
+Jaboatao dos Guararapes,2025-07-13,9,35,27,71,Relato de Jaboatao dos Guararapes na semana 6: 9 casos de dengue. Choveu 35 mm. Temperatura média 27 C.
+Jaboatao dos Guararapes,2025-07-20,11,45,28,72,Relato de Jaboatao dos Guararapes na semana 7: 11 casos de dengue. Choveu 45 mm. Temperatura média 28 C.
+Jaboatao dos Guararapes,2025-07-27,12,15,29,73,Relato de Jaboatao dos Guararapes na semana 8: 12 casos de dengue. Choveu 15 mm. Temperatura média 29 C.
+Jaboatao dos Guararapes,2025-08-03,14,25,27,74,Relato de Jaboatao dos Guararapes na semana 9: 14 casos de dengue. Choveu 25 mm. Temperatura média 27 C.
+Jaboatao dos Guararapes,2025-08-10,7,35,28,70,Relato de Jaboatao dos Guararapes na semana 10: 7 casos de dengue. Choveu 35 mm. Temperatura média 28 C.
+Jaboatao dos Guararapes,2025-08-17,9,45,29,71,Relato de Jaboatao dos Guararapes na semana 11: 9 casos de dengue. Choveu 45 mm. Temperatura média 29 C.
+Jaboatao dos Guararapes,2025-08-24,10,15,27,72,Relato de Jaboatao dos Guararapes na semana 12: 10 casos de dengue. Choveu 15 mm. Temperatura média 27 C.
+Jaboatao dos Guararapes,2025-08-31,12,25,28,73,Relato de Jaboatao dos Guararapes na semana 13: 12 casos de dengue. Choveu 25 mm. Temperatura média 28 C.
+Jaboatao dos Guararapes,2025-09-07,15,35,29,74,Relato de Jaboatao dos Guararapes na semana 14: 15 casos de dengue. Choveu 35 mm. Temperatura média 29 C.
+Jaboatao dos Guararapes,2025-09-14,7,45,27,70,Relato de Jaboatao dos Guararapes na semana 15: 7 casos de dengue. Choveu 45 mm. Temperatura média 27 C.
