@@ -72,17 +72,19 @@ with tab2:
     casos_4s = c1.number_input("Casos nas últimas 4 semanas", 0, 10000, 40)
     chuva = c2.number_input("Chuva média (mm)", 0.0, 500.0, 20.0)
     temp = c3.number_input("Temperatura média (°C)", -5.0, 45.0, 25.0)
-    umidade = c4.number_input("Umidade média (%)", 0.0, 100.0, 70.0)
+    umid = c4.number_input("Umidade média (%)", 0.0, 100.0, 70.0)
     if clf:
         X = pd.DataFrame(
             [[casos_4s,
               chuva,
               temp,
-              umidade]], columns=[
+              umid]], columns=[
                   "casos_4s",
                   "chuva",
                   "temp",
-                  "umidade"
+                  "umid"
             ])
-        proba = clf.predict_proba(X)[0][1]
-        st.metric("Probabilidade de surto2", f"{proba * 100:.2%}%")
+        # problema com os nomes das variáveis setado anteriormente
+        # estava acarretando problema em nosso proba.
+        proba = clf.predict_proba(X)[0, 1]
+        st.metric("Probabilidade de surto", f"{proba * 100:.1f}%")
